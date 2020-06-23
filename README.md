@@ -32,4 +32,4 @@ Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Devel
     - Set Methods
     - Examples related to methods
     
-Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-5(19-06-2020)/19-06-2020.ipynb)
+Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-6(20-06-2020)/20-06-2020.ipynb)
