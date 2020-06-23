@@ -14,7 +14,7 @@
     - List Indexing
     - List Slicing
     
-Click here for Notebook [--> Jupyter Notebook]()
+Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-5(19-06-2020)/19-06-2020.ipynb)
     
 ### Day-6
 #### Topics Covered:
@@ -32,3 +32,4 @@ Click here for Notebook [--> Jupyter Notebook]()
     - Set Methods
     - Examples related to methods
     
+Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-5(19-06-2020)/19-06-2020.ipynb)
