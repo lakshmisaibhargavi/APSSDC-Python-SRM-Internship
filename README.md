@@ -14,6 +14,8 @@
     - List Indexing
     - List Slicing
     
+Click here for Notebook [--> Jupyter Notebook]()
+    
 ### Day-6
 #### Topics Covered:
 - List
