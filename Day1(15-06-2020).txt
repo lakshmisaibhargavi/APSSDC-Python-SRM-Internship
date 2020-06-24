@@ -1,0 +1,87 @@
+Good Morning all:
+-------------------------
+    -->python is
+        -->high-level:
+            
+        -->interpreter
+        -->oops(object oriented programming)
+        -->multi purpose
+        -->scripting: i can able to implemenet python code in html at the
+        same time i can wirite html in python
+        -->dynamic programming language:
+            int c=0
+            c=5/2
+            print(c)
+        -->data types:
+            -int
+            -float
+            -string
+            -complex
+            -boolean
+            -list
+            -tuple
+            -set
+            -dict
+        --python execution:
+            --to execute apython code ,we have 2 ways
+                -->iteractive mode
+                    -->for getting immidiat result we will use interactive mode
+                        like pytho shell
+                -->scripting mode:
+                    here i can build logic then i have to save(.py) and then i will run
+
+        -->keywords:reserved words,we can't use them as a variable
+            int a=0
+        -->operators:
+            -->by using this operators we can arithmetic an dlogical operations
+            -->types:
+                Arithmetic operators:+,-,*,/,%,//,**
+                realational ioperators:
+                    -->to compare 2 values
+                    --> <,>,<=,>=,==,!=
+                assignment operators:+=,-=,*=,/=,%=,//=,**=,<=,>=
+                Bitwise operator:&,|,<<,>>
+                    ->2&3
+                    -->2-->0010
+                    -->3-->0011
+                    ----------------
+                                0010-->2
+                    ->2|3
+                    -->2-->0010
+                    -->3-->0011
+                    ---------------
+                                0011-->3
+                -->leftshit:2<<1
+                    2-->0010
+                        -->0100-->4
+                -->2>>1
+                        -->0010
+                        -->0001-->1
+                
+                Logical Operators:
+                    --> by using logical operators, we can compare 2 or more condi
+                    -->and,or,not
+                Membership Operators.
+                Identity Operators.
+                
+            
+
+
+
+
+
+
+                    
+
+
+
+
+
+
+        
+
+
+
+
+
+            
