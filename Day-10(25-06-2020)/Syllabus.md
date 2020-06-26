@@ -1,4 +1,4 @@
-### Covered Topics:
+### Day-10 Covered Topics:
 
 ##### List Comprehension
 ##### Set Comprehension
