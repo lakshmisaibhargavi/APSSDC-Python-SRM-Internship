@@ -33,3 +33,24 @@ Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Devel
     - Examples related to methods
     
 Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-6(20-06-2020)/20-06-2020.ipynb)
+
+
+### Day-10 Covered Topics:
+
+##### List Comprehension
+##### Set Comprehension
+##### Dictionary Comprehension
+##### Numpy
+  - Different Packages in Python
+  - Introduction to Numpy
+  - Different Types of Data Declaration in Numpy
+    - 1-D Array
+    - 2-D Array
+    - 3-D Array(Multi Dimension Array)
+  - Different Methods in Numpy
+    - ones
+    - zeros
+    - eye
+    - arange
+    - etc
+[Class Jupyter Notebook]()
