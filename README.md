@@ -1,7 +1,7 @@
 ### Day -4
 
 #### Topics Covered
-##### Functions
+-  Functions
     - Introduction on Functions
     - Types of Functions
     - Examples on each type of function
