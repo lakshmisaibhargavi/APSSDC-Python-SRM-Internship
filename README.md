@@ -1,3 +1,12 @@
+### Day -4
+
+#### Topics Covered
+##### Functions
+    - Introduction on Functions
+    - Types of Functions
+    - Examples on each type of function
+
+
 ### Day-5
 #### Topics Covered:
 - Functions
