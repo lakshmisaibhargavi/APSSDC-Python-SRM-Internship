@@ -52,5 +52,5 @@ Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Devel
     - zeros
     - eye
     - arange
-    - etc
-[Class Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-10(25-06-2020)/25-06-2020.ipynb)
+    - etc<br>
+[--> Class Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-10(25-06-2020)/25-06-2020.ipynb)
