@@ -1,0 +1,107 @@
+17-06-2020:
+===========
+
+	Good Morning to All
+	
+Execution of Python:
+
+Compiler and Interpreter:
+========================
+
+-> Compiler:
+		-> All errors at a time and we can rectify all the errors at a time  
+-> Interpreter:
+		-> If the error displays at first line it stops at first line and it will not executes below the lines of code
+
+Different ways:
+===============
+-> Basic Procedure[Editor,Interpreter[python]
+-> Advance Editors[Geany,sublime,atom,Notepad++,Editplus,etc.,,Python[interpreter]
+-> IDLE [Python]
+-> Anaconda Software[jupyter,spider tools]
+
+-> Basic Procedure to execute a .Py:
+====================================
+	-> Editor[Coded .py]
+	-> Open cmd and just naviagte to the path location.
+	-> Type the command as "python filename.py"
+
+-> Advanced Editors:[Geany-> Editor,Python]:
+============================================
+	-> Editor -> coded
+	-> Shortcuts to execute .py
+	-> We are decreasing our work[not including the command in command prompt]
+
+-> IDLE[Python]:
+===============
+	-> Builtin[Editor + Interpreter]
+	-> Execute the program
+	-> Displays the output in shell[cmd -> X]
+
+-> Anaconda[jupyterlab,jupyter,spyder,visualcode,scipy etc.,]:
+==================================================
+	-> So many packages or [library files] are included in it
+	-> Jupyter
+	-> cmd -> pip install jupyter
+	-> .ipynb[jupyter notebook]
+		-> I = Interactive
+		-> Py = Python
+		-> Nb = Notebook
+	-> n number of [python programs].py to single .ipynb
+	-> 1 cell = 1.py
+	
+Jupyter Notebook:[python Interpreter]
+=========================================
+	-> Allows Documentation and coding
+	Literate Programming:
+	=====================
+	-> Document 
+	-> Code
+	
+Modes in Jupyter Notebook:
+==========================
+	-> Command Mode -> Blue color
+	-> Edit Mode -> Green color
+
+-> Document[Markdown][html tags] -> command,edit 
+-> Code[Python] -> command,edit
+
+document [markdown -> ]
+
+Shortcuts in Jupyter:
+=====================
+-> Command mode:
+++++++++++++++++
+	-> esc + y => coding
+	-> esc + m => markdown
+	-> esc + a => above
+	-> esc + b => below
+	-> esc + dd => delete
+	-> shift + enter => Execution
+	
+18-06-2020:
+===========
+		
+		Good Morning to All.
+		
+		If anyone is facing issues while installing jupyter let us know 
+	
+	
+https://www.eduonix.com/courses/Web-Development/Learn-HTML5-Programming-For-Beginners#courseContentNav
+
+https://www.eduonix.com/courses/Web-Development/Learn-Bootstrap-Development-By-Building-10-Projects#prerequisitesNav
+
+https://www.eduonix.com/courses/Software-Development/the-developers-guide-to-python-3-programming#prerequisitesNav
+
+https://www.eduonix.com/courses/Web-Development/Learn-Django-and-Python-Development-By-Building-Projects#prerequisitesNav
+
+
+https://www.hexascholars.com/
+	
+	
+	
+	
+	
+	
+	
+	
