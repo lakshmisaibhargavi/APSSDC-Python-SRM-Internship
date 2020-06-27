@@ -61,6 +61,11 @@ Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Devel
     
 Click here for Notebook [--> Jupyter Notebook](https://github.com/AP-Skill-Development-Corporation/APSSDC-Python-SRM-Internship/blob/master/Day-6(20-06-2020)/20-06-2020.ipynb)
 
+### Day-9
+#### Topics Covered
+- Files
+    - Creating,Writing,Reading,Appending to a file
+    - Accessing modes with sample examples on each with different extensions
 
 ### Day-10 Covered Topics:
 
