@@ -1,6 +1,24 @@
+### Day-3
+#### Topics Covered
+- Difference between Compiler and Interpreter
+- Different ways to execute python program
+    - Basic procedure {python interperter,notepad,command prompt}
+    - Advanced editor {geany etc., python iterpreter, command prompt}
+    - IDLE {python default editor and interpreter}
+    - Anaconda Software {jupyter notebook}
+- Installation of Jupyter notebook
+    - Execution of python programs in jupyter notebook
+    - modes and shortcuts in it
+- Literate Programming
+    - Coding and Documentation
+    - Conditional statements and output formatting by using % and .format
+
 ### Day -4
 
 #### Topics Covered
+- Loops
+    - Jumping statements
+    - Inner Loops
 -  Functions
     - Introduction on Functions
     - Types of Functions
