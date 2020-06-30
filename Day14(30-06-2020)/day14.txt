@@ -1,0 +1,50 @@
+Good morning all:
+-------------------------
+    ==>Packages and modules:
+        -->here we are splitting a lorge program into sub programs
+        -->Package:
+            -->it is a folder
+            -->in that packages we will keep modules
+        -->Module:
+            -->it is .py file
+        --Accessing packages:
+            --> for this we have to use a keyword 'import'
+                -->if my modules is existed in same location(controller and modules)
+                    --> import directly
+                -->otherwise, if modules existed in a folder
+                    --> here we have to use a special keyword 'from'
+        task1:
+            -->you can create a new module with name 'math2', in that you have to
+            create few functions for finding even num,odd num and prim num.
+
+        we have 2 different types of  modules:
+            -->default modules
+                ex:numpy,pandas,matplotlib,re,request,json,keywords,os,math,array
+            --> user defined modules
+                ex:math1,math2
+
+        --> for implementing modules we have 2 diff ways:
+                -- using functions
+                -- using opps
+    Inheritance:
+    ----------------
+        --> inheriting properties from parent to child
+        -
+    
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+            
+    

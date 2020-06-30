@@ -1,0 +1,54 @@
+Good morning all:
+-------------------------
+---> python is also support object oriented program
+    -->class
+    -->object
+    -->method
+    -->constructor
+    -->inheritance
+    -->packages and modules
+
+    --->class:
+            it is collection of varibles and method
+            syntax:
+                class class_name:
+                    a,b=3,4
+
+                    def add():
+                        return 5+8
+                    def sub():
+                        return 5-3
+                    def mul():
+                        return 4*5
+            -->for accessing variables and methods we have to class_name
+            -->class name should starts with caps
+    -->Object:
+        -- it is instance of a class
+        syntax:
+            objectName = className
+            or
+            objectName = className()
+    -->constructor:
+        -->without using object we have to call a method that means
+        while creating object only it will call a method
+        --> for creating that constructos we have to use a special mmethod
+            __init__(self)
+        -->we are using cons here to make dynamic apps
+
+
+
+
+            
+
+
+
+
+            
+
+
+
+
+
+
+            
+                    
