@@ -1,0 +1,58 @@
+Good morning all:
+--------------------------
+    Web appications:
+        ex:google.com,facebook.com
+        -->html,css,javascript(frontend)
+        -->backend(php,python,java,.net)
+        -->SQL:databases(mysql,oracle,postgres,mongodg .etc)
+    Django:
+        -->it is a module in python
+        -->it is a web application framework
+        --> for developing web applications
+        --> for developing web applications django follows a design pattern
+            MVT
+            -->Model View Templates
+                -->Model:here we will store database connections
+                -->View: for storing main logic
+                -->templates: wehave to store .html files
+        -->Django Installtion:
+            -------------------------
+                --> we have to run a command to install django in cmd
+                    'pip install django'
+                        (or)
+                    'pip install django==2.2'
+        --->Project Creation:
+            -->first we have to choose or select a project location
+            -->from that location you have to open cmd
+            --> in cmd, you to type a command to create a project
+                'django-admin startprojetc projectName'
+            --> ahter running this command ,it will generate 2 files
+                -->first one is the folder with name of project,
+                    that is belongs to admin app
+                    -->__init_.py:
+                            it will convey to python to treat this app as a python file
+
+                    -->asgi.py and wsgi.py: we are using these files to register
+                        our sites at gateway
+                    -->setting.py:all project settings will  be happen here
+                    -->urls.py:here we will register our urls
+                                  
+                --->second one is manage.py:this command line utility,
+                this will acts as a interface between pytho and django
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+                
+        
+    
